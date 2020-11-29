@@ -1,7 +1,7 @@
 # Azure certification notes
 
 For the year 2021 I'm planning to complete the following Microsoft Azure Certification tracks.
-This git-repo contain links  to different materials related to these certification tracks.
+This git-repo will contain links to different materials related to these certification tracks.
 
 
 * Microsoft Certified: Azure Fundamentals (optional)
