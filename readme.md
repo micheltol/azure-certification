@@ -25,6 +25,8 @@ https://www.microsoftpartnercommunity.com/atvwr79957/attachments/atvwr79957/NLEv
 
 ## External resources
 * Training PluralSight: https://waww.pluralsight.com/guides/cloud-certifications:-microsoft-azure-az-303-and-az-304-exam-requirement-changes
+* https://medium.com/@the.green.man/exam-az-203-developing-solutions-for-microsoft-azure-best-resources-on-the-web-in-2020-23c10679b0d2
+* 
 
 
 
