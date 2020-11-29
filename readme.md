@@ -7,7 +7,7 @@ This git-repo will contain links to different materials related to these certifi
 * Microsoft Certified: Azure Fundamentals (optional)
 https://docs.microsoft.com/learn/certifications/azure-fundamentals
 
-* Microsoft Certified: Azure Developer Associate
+* Exam AZ-204: Microsoft Certified: Azure Developer Associate
 https://docs.microsoft.com/en-gb/learn/certifications/azure-developer
 
 * Exam AZ-303: Microsoft Azure Architect Technologies
