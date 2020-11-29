@@ -28,6 +28,11 @@ https://www.microsoftpartnercommunity.com/atvwr79957/attachments/atvwr79957/NLEv
 * Cloud Academy: https://cloudacademy.com/learning-paths/az-204-exam-preparation-developing-solutions-for-microsoft-azure-1208/
 * https://medium.com/@the.green.man/exam-az-203-developing-solutions-for-microsoft-azure-best-resources-on-the-web-in-2020-23c10679b0d2
 
+## Books
+* [Exam Ref AZ-204 Developing Solutions for Microsoft Azure](https://www.microsoftpressstore.com/store/exam-ref-az-204-developing-solutions-for-microsoft-9780136798316)
+
+
+
 ## Discounts
 * pluralsight discountcoupon: save5
 
