@@ -29,6 +29,6 @@ https://www.microsoftpartnercommunity.com/atvwr79957/attachments/atvwr79957/NLEv
 
 
 ## Discounts
-* pluralsight kortingscode: save5
+* pluralsight discountcoupon: save5
 
 
