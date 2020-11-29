@@ -30,10 +30,11 @@ https://www.microsoftpartnercommunity.com/atvwr79957/attachments/atvwr79957/NLEv
 
 ## Books
 * [Exam Ref AZ-204 Developing Solutions for Microsoft Azure](https://www.microsoftpressstore.com/store/exam-ref-az-204-developing-solutions-for-microsoft-9780136798316)
+* [Exam Ref AZ-303 Microsoft Azure Architect Technologies](https://www.microsoftpressstore.com/store/exam-ref-az-303-microsoft-azure-architect-technologies-9780136805090)
 
 
 
 ## Discounts
 * pluralsight discountcoupon: save5
-
+* https://www.microsoftpressstore.com : SPECIAL OFFER Use discount code BOOKSGIVING to save 55% when you buy 2+ books and eBooks
 
